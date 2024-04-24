@@ -1,0 +1,11 @@
+ifdef::context[:parent-context: {context}]
+
+[id="planning-saas"]
+= Planning {SaaSonAWS}
+
+:context: saas-planning
+
+// [role="_abstract"]
+
+ifdef::parent-context[:context: {parent-context}]
+ifndef::parent-context[:!context:]
