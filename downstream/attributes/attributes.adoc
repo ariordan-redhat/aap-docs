@@ -149,7 +149,7 @@
 :SettingsIcon: &#9881;
 
 // Feedback module
-:DocumentationFeedback: aap-common/providing-feedback.adoc
+:DocumentationFeedback: providing-feedback.adoc
 
 // Linux platforms
 :RHEL: Red Hat Enterprise Linux
